@@ -1,3 +1,8 @@
+# NOTICE
+
+Mirror of [nvim-intro](https://github.com/Yoolayn/nvim-intro), originally
+released under the MIT Licence by [Julian Jaroszynski](https://github.com/Yoolayn).
+
 # nvim-intro
 Replacer for default Intro in neovim
 
